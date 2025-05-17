@@ -11,7 +11,7 @@ This is a Spring Boot application developed as part of the "First-Project-Java-S
 
 ## Screenshots
 
-[death-the-kid png (360×306) - Google Chrome 5_17_2025 9_24_17 PM](https://github.com/user-attachments/assets/4daadc93-76d2-41ae-bdd3-522cc187dd4a)
+![death-the-kid png (360×306) - Google Chrome 5_17_2025 9_24_17 PM](https://github.com/user-attachments/assets/4daadc93-76d2-41ae-bdd3-522cc187dd4a)
 
 - Successfully served from `http://localhost:8080/images/death-the-kid.png`.
 
